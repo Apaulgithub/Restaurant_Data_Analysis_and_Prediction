@@ -125,3 +125,8 @@ This comprehensive project journey provided insights into restaurant data, custo
 ## Author
 
 - [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
+
+---
+
+## Reference
+ - [Cognifyz Technologies Data Science Internship](https://www.cognifyz.com/careers/career.html)
