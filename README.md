@@ -1,4 +1,4 @@
-# Restaurant_Insights_Analysis_and_Prediction
+# Restaurant Insights Analysis and Prediction
 
 **Cognifyz Technologies Verified Project** - [**Credentials**]
 
