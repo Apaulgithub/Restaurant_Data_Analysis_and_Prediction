@@ -1,6 +1,6 @@
 # Restaurant Insights Analysis and Prediction
 
-**Cognifyz Technologies Verified Project** - [**Credentials**]
+**Cognifyz Technologies Verified Project** - [**Credentials**](https://mail.google.com/mail/u/1/#inbox/FMfcgzGtxddkVmbjjZPjPpBLMMdRVpsx?projector=1&messagePartId=0.1)
 
 ![MasterHead](https://www.blinkco.io/wp-content/uploads/2021/08/restaurant-data-analytics-illustration.jpg)
 
